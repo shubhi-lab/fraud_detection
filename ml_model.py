@@ -14,3 +14,5 @@ def model3():
     print("adding model3 code here")
     # Code for model3
     pass
+
+print("model2 is performiing best")
