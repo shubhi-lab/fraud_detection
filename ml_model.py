@@ -16,4 +16,6 @@ def model3():
     pass
 
 print("model2 is performiing best")
-print("model3 is performiing worst")
+print("model3 is performing worst")
+
+print("model3 is performiiing worst")
